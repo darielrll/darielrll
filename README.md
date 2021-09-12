@@ -11,7 +11,8 @@
 - 💬 Ask me about ... 
 - 📫 How to reach me: ... 
 - More info to enrich this readme:
-https://github.com/Zachpocalypse/github-readme-stats/blob/master/docs/readme_es.md
+ - https://github.com/Zachpocalypse/github-readme-stats/blob/master/docs/readme_es.md
+ - https://betterprogramming.pub/3-steps-to-improve-your-github-overview-page-950c64d4d465
 -->
 
 Thanks for visiting my gitHub page. 
