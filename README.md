@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=darielrll.visitor-badge)
 
-- 🔭 I’m currently working on solving competitive problems on HackerRank and Leetcode
+- 🔭 I’m all the time working on solving competitive problems on HackerRank and Leetcode
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on TDD Katas
 - 😄 Pronouns: diru
