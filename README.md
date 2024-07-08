@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=darielrll.visitor-badge)
+![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 - 🔭 I’m all the time working on solving competitive problems on HackerRank and Leetcode
 - 🌱 I’m currently learning react
@@ -20,6 +21,9 @@ I am close to write more testing code than production code, TDD change my coding
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darielrll&show_icons=true&locale=en&layout=compact&hide=html&langs_count=6&theme=radical&hide_border=true" align="left">
 <img src="https://github-readme-stats-mrdulin.vercel.app/api?username=darielrll&count_private=true&show_icons=true&hide_border=true&show_icons=true&theme=radical&layout=compact" align="left">
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=leiradrll" alt="LeetCode Badges" align="center"/>
+
 
 
 
